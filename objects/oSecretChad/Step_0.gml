@@ -14,16 +14,34 @@ vsp = vsp + grv;
 
 
 //if on floor for jump
-if (place_meeting(x,y+1,(oWall || oDirt || oGrass))) && (key_jump)
+if (place_meeting(x,y+1,oWall)) && (key_jump)
+{
+	vsp = -7;
+}
+
+//if on floor for jump
+if (place_meeting(x,y+1,oGrass)) && (key_jump)
 {
 	vsp = -7;
 }
 
 
-//horo collision
+
+//horo collision wall
 if (place_meeting(x+sign(hsp),y,oWall))
 {
-	while (!place_meeting(x+sign(hsp),y,oWall))
+	while(!place_meeting(x+sign(hsp),y,oWall))
+	{
+		x = x + sign(hsp);
+	}
+	hsp = 0;
+}
+x = x + hsp;
+
+//horo collision grass
+if (place_meeting(x+sign(hsp),y,oGrass))
+{
+	while(!place_meeting(x+sign(hsp),y,oGrass))
 	{
 		x = x + sign(hsp);
 	}
