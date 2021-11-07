@@ -6,11 +6,6 @@ if (grounded) && (ledgeGuard) && (place_meeting(x+hsp, y+1, oWall))
 	hsp = -hsp;
 }
 
-//if on floor for jump
-if (place_meeting(x,y+1,oGrass)) && (key_jump)
-{
-	vsp = -7;
-}
 
 //horo collision wall
 if (place_meeting(x+sign(hsp),y,oWall))
