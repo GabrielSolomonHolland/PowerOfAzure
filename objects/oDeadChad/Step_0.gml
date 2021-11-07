@@ -2,6 +2,12 @@ if (done == 0)
 {
 	vsp = vsp + grv;
 
+	//if on floor for jump
+	if (place_meeting(x,y+1,oGrass)) && (key_jump)
+	{
+		vsp = -7;
+	}
+
 	//horo collision wall
 	if (place_meeting(x+sign(hsp),y,oWall))
 	{
@@ -18,8 +24,9 @@ if (done == 0)
 	{
 		if (vsp > 0) 
 		{
-			done  = 1;
-			//image_index = 1;
+			done = 1;
+			//image_index = 1; //For animation stuff
+			alarm[0] = 60;
 		}
 		while (!place_meeting(x,y + sign(vsp),oWall))
 		{
@@ -28,4 +35,5 @@ if (done == 0)
 		vsp = 0;
 	}
 	y = y + vsp;
+	
 }
