@@ -12,6 +12,8 @@
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},"order":0,},
     {"id":{"name":"shWhite","path":"shaders/shWhite/shWhite.yy",},"order":0,},
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},"order":1,},
+    {"id":{"name":"sRoof","path":"sprites/sRoof/sRoof.yy",},"order":19,},
+    {"id":{"name":"oRoof","path":"objects/oRoof/oRoof.yy",},"order":20,},
     {"id":{"name":"sArmedChad","path":"sprites/sArmedChad/sArmedChad.yy",},"order":3,},
     {"id":{"name":"oArmedChad","path":"objects/oArmedChad/oArmedChad.yy",},"order":2,},
     {"id":{"name":"oDoorB","path":"objects/oDoorB/oDoorB.yy",},"order":18,},
