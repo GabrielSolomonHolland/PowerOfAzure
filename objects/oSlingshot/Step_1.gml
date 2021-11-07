@@ -1,7 +1,7 @@
 //x = oSecretChad.x + 30;
 //y = oSecretChad.y - 20;
-x = oChad.x + 30;
-y = oChad.y;
+x = oChad.x + 22;
+y = oChad.y-5;
 image_angle = point_direction(x, y, mouse_x, mouse_y);
 
 
