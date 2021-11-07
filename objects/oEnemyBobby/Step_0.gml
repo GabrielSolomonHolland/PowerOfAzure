@@ -1,5 +1,10 @@
-
 vsp = vsp + grv;
+
+//Plz no walk off edges 
+if (grounded) && (ledgeGuard) && (place_meeting(x+hsp, y+1, oWall))
+{
+	hsp = -hsp;
+}
 
 //if on floor for jump
 if (place_meeting(x,y+1,oGrass)) && (key_jump)
@@ -28,3 +33,13 @@ if (place_meeting(x,y + sign(vsp),oWall))
 	vsp = 0;
 }
 y = y + vsp;
+
+//Grounded variable for ledge guarding (Can be used later to help implement animation stuff)
+if (!place_meeting(x,y+1,oWall))
+{
+	grounded = false;
+}
+else
+{
+	grounded = true;
+}
