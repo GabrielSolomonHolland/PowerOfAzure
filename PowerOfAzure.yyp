@@ -18,6 +18,7 @@
     {"id":{"name":"oChad","path":"objects/oChad/oChad.yy",},"order":3,},
     {"id":{"name":"sBobby","path":"sprites/sBobby/sBobby.yy",},"order":9,},
     {"id":{"name":"sDirt","path":"sprites/sDirt/sDirt.yy",},"order":8,},
+    {"id":{"name":"tdirt","path":"tilesets/tdirt/tdirt.yy",},"order":0,},
     {"id":{"name":"oFbomb","path":"objects/oFbomb/oFbomb.yy",},"order":4,},
   ],
   "Options": [

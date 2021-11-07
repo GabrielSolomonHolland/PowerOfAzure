@@ -13,17 +13,18 @@ hsp = move * walksp;
 vsp = vsp + grv;
 
 
-//if on floor for jump
+//if on wall tile, jump
 if (place_meeting(x,y+1,oWall)) && (key_jump)
 {
 	vsp = -7;
 }
 
-//if on floor for jump
 if (place_meeting(x,y+1,oGrass)) && (key_jump)
 {
 	vsp = -7;
 }
+
+
 
 
 
@@ -49,10 +50,21 @@ if (place_meeting(x+sign(hsp),y,oGrass))
 }
 x = x + hsp;
 
-//vert collision
+//vert collision wall
 if (place_meeting(x,y + sign(vsp),oWall))
 {
 	while (!place_meeting(x,y + sign(vsp),oWall))
+	{
+		y = y + sign(vsp);
+	}
+	vsp = 0;
+}
+y = y + vsp;
+
+//vert collision grass
+if (place_meeting(x,y + sign(vsp),oGrass))
+{
+	while (!place_meeting(x,y + sign(vsp),oGrass))
 	{
 		y = y + sign(vsp);
 	}
