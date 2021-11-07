@@ -3,6 +3,7 @@
     {"id":{"name":"oGrass","path":"objects/oGrass/oGrass.yy",},"order":7,},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
     {"id":{"name":"oSecretChad","path":"objects/oSecretChad/oSecretChad.yy",},"order":5,},
+    {"id":{"name":"oSlingshot","path":"objects/oSlingshot/oSlingshot.yy",},"order":9,},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},"order":0,},
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},"order":1,},
     {"id":{"name":"sArmedChad","path":"sprites/sArmedChad/sArmedChad.yy",},"order":3,},
@@ -19,6 +20,7 @@
     {"id":{"name":"sBobby","path":"sprites/sBobby/sBobby.yy",},"order":9,},
     {"id":{"name":"sDirt","path":"sprites/sDirt/sDirt.yy",},"order":8,},
     {"id":{"name":"oFbomb","path":"objects/oFbomb/oFbomb.yy",},"order":4,},
+    {"id":{"name":"slingShot","path":"sprites/slingShot/slingShot.yy",},"order":10,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
