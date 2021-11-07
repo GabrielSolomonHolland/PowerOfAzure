@@ -1,7 +1,6 @@
 {
   "resources": [
     {"id":{"name":"oGrass","path":"objects/oGrass/oGrass.yy",},"order":7,},
-    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
     {"id":{"name":"oSecretChad","path":"objects/oSecretChad/oSecretChad.yy",},"order":5,},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},"order":0,},
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},"order":1,},
@@ -9,6 +8,7 @@
     {"id":{"name":"oArmedChad","path":"objects/oArmedChad/oArmedChad.yy",},"order":2,},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},"order":0,},
     {"id":{"name":"sGrass","path":"sprites/sGrass/sGrass.yy",},"order":7,},
+    {"id":{"name":"Room0","path":"rooms/Room0/Room0.yy",},"order":2,},
     {"id":{"name":"sSecretChad","path":"sprites/sSecretChad/sSecretChad.yy",},"order":4,},
     {"id":{"name":"sFbomb","path":"sprites/sFbomb/sFbomb.yy",},"order":6,},
     {"id":{"name":"sChad","path":"sprites/sChad/sChad.yy",},"order":5,},
@@ -19,7 +19,6 @@
     {"id":{"name":"sBobby","path":"sprites/sBobby/sBobby.yy",},"order":9,},
     {"id":{"name":"sDirt","path":"sprites/sDirt/sDirt.yy",},"order":8,},
     {"id":{"name":"oFbomb","path":"objects/oFbomb/oFbomb.yy",},"order":4,},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Main","path":"options/main/options_main.yy",},
@@ -34,8 +33,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"roomId":{"name":"Room0","path":"rooms/Room0/Room0.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
