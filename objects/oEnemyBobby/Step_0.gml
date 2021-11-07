@@ -1,10 +1,11 @@
 vsp = vsp + grv;
 
-//Plz no walk off edges 
+//Plz no walk off edges
 if (grounded) && (ledgeGuard) && (place_meeting(x+hsp, y+1, oWall))
 {
 	hsp = -hsp;
 }
+
 
 //horo collision wall
 if (place_meeting(x+sign(hsp),y,oWall))
