@@ -23,7 +23,7 @@ if (place_meeting(x,y+1,oWall)) && (key_jump)
 //horo collision
 if (place_meeting(x+hsp,y,oWall))
 {
-	while (!place_meeting(x+sign(hsp),y,oWall))
+	while (!place_meeting(x+sign(hsp),y,oGrass))
 	{
 		x = x + sign(hsp);
 	}
@@ -33,7 +33,7 @@ if (place_meeting(x+hsp,y,oWall))
 x = x + hsp;
 
 //vert collision
-if (place_meeting(x,y + vsp,oWall))
+if (place_meeting(x,y + vsp,(oWall || oDirt || oGrass)))
 {
 	while (!place_meeting(x,y + sign(vsp),oWall))
 	{
