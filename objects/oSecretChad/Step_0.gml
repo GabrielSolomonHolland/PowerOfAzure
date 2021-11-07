@@ -4,6 +4,8 @@ key_right = keyboard_check(ord("D"));
 key_jump = keyboard_check_pressed(ord("W"));
 key_crouch = keyboard_check(ord("S"));
 
+am_stuck = keyboard_check(ord("K"));
+
 
 //using var means it is a temp variable
 //calc movement
@@ -19,30 +21,11 @@ if (place_meeting(x,y+1,oWall)) && (key_jump)
 	vsp = -7;
 }
 
-if (place_meeting(x,y+1,oGrass)) && (key_jump)
-{
-	vsp = -7;
-}
-
-
-
-
 
 //horo collision wall
 if (place_meeting(x+sign(hsp),y,oWall))
 {
 	while(!place_meeting(x+sign(hsp),y,oWall))
-	{
-		x = x + sign(hsp);
-	}
-	hsp = 0;
-}
-x = x + hsp;
-
-//horo collision grass
-if (place_meeting(x+sign(hsp),y,oGrass))
-{
-	while(!place_meeting(x+sign(hsp),y,oGrass))
 	{
 		x = x + sign(hsp);
 	}
@@ -61,15 +44,7 @@ if (place_meeting(x,y + sign(vsp),oWall))
 }
 y = y + vsp;
 
-//vert collision grass
-if (place_meeting(x,y + sign(vsp),oGrass))
+if (am_stuck)
 {
-	while (!place_meeting(x,y + sign(vsp),oGrass))
-	{
-		y = y + sign(vsp);
-	}
-	vsp = 0;
+	y = y-10;
 }
-y = y + vsp;
-
-//(oWall || oDirt || oGrass)
