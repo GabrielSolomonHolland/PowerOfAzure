@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sBrick2",
-    "path": "sprites/sBrick2/sBrick2.yy",
+    "name": "sYuunyunsign",
+    "path": "sprites/sYuunyunsign/sYuunyunsign.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,7 +28,7 @@
     "path": "folders/Objects/Terrain.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oBrick2",
+  "name": "oUnSign",
   "tags": [],
   "resourceType": "GMObject",
 }
