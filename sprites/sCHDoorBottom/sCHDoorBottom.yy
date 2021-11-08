@@ -148,8 +148,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Terrain",
+    "path": "folders/Sprites/Terrain.yy",
   },
   "resourceVersion": "1.0",
   "name": "sCHDoorBottom",

@@ -27,8 +27,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Dead",
+    "path": "folders/Objects/Enemies/Dead.yy",
   },
   "resourceVersion": "1.0",
   "name": "oDeadBobby",
