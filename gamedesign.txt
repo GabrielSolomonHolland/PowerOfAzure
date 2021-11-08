@@ -51,3 +51,8 @@ end credits:
 if time:
 health bar
 consumables: CantELOEpe, pink drank = health, deep fried bell = faster ROF
+
+
+best idea ever:
+animate bobby bearcat to leg dance left neutral right neutral repeat
+best idea ever
