@@ -6,6 +6,7 @@ key_crouch = keyboard_check(ord("S"));
 
 am_stuck = keyboard_check(ord("K"));
 
+reset = keyboard_check(ord("R"));
 
 //using var means it is a temp variable
 //calc movement
@@ -55,4 +56,9 @@ y = y + vsp;
 if (am_stuck)
 {
 	y = y-30;
+}
+
+if (reset)
+{
+	game_restart();	
 }

@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Dead",
+    "path": "folders/Sprites/Enemies/Dead.yy",
   },
   "resourceVersion": "1.0",
   "name": "sBobbyDead",
