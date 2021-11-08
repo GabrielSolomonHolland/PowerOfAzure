@@ -1,12 +1,9 @@
 {
-  "spriteId": {
-    "name": "sSecretChad",
-    "path": "sprites/sSecretChad/sSecretChad.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
-  "persistent": false,
+  "persistent": true,
   "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
@@ -23,17 +20,16 @@
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"oEnemyBobby","path":"objects/oEnemyBobby/oEnemyBobby.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":82,"eventType":9,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":64,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Allive",
-    "path": "folders/Objects/Eloes/Allive.yy",
+    "name": "Transitions",
+    "path": "folders/Objects/Transitions.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oSecretChad",
+  "name": "oTransition",
   "tags": [],
   "resourceType": "GMObject",
 }

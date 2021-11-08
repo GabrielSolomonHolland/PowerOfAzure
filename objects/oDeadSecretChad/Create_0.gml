@@ -8,7 +8,7 @@ done = 0;
 //image_index = 0;
 game_set_speed(30, gamespeed_fps);
 
-//with (oCamera) follow = other.id;  //This is for if a camera is implemented
+with (oCamera) follow = other.id;
 
 //If decide to implement camera - go back to death video to get code for camera stuff for other areas
 
