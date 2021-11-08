@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sArmedChad",
-    "path": "sprites/sArmedChad/sArmedChad.yy",
+    "name": "sCHSign",
+    "path": "sprites/sCHSign/sCHSign.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,7 +28,7 @@
     "path": "folders/Objects/Eloes/Allive.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oArmedChad",
+  "name": "oCHSign",
   "tags": [],
   "resourceType": "GMObject",
 }
