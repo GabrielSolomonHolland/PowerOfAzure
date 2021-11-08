@@ -20,6 +20,7 @@
     {"id":{"name":"oDoorB","path":"objects/oDoorB/oDoorB.yy",},"order":2,},
     {"id":{"name":"oBrick","path":"objects/oBrick/oBrick.yy",},"order":0,},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},"order":2,},
+    {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},"order":0,},
     {"id":{"name":"sGrass","path":"sprites/sGrass/sGrass.yy",},"order":6,},
     {"id":{"name":"oDeadBobby","path":"objects/oDeadBobby/oDeadBobby.yy",},"order":0,},
     {"id":{"name":"oSlingshotBuffEloe","path":"objects/oSlingshotBuffEloe/oSlingshotBuffEloe.yy",},"order":2,},
@@ -95,6 +96,7 @@
     {"folderPath":"folders/Sprites/Enemies/Dead.yy","order":2,"resourceVersion":"1.0","name":"Dead","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Terrain.yy","order":22,"resourceVersion":"1.0","name":"Terrain","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Weapons.yy","order":23,"resourceVersion":"1.0","name":"Weapons","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/Camera.yy","order":25,"resourceVersion":"1.0","name":"Camera","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
