@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sArmedChad",
-    "path": "sprites/sArmedChad/sArmedChad.yy",
+    "name": "sBrick2",
+    "path": "sprites/sBrick2/sBrick2.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oArmedChad",
+  "name": "oBrick2",
   "tags": [],
   "resourceType": "GMObject",
 }
