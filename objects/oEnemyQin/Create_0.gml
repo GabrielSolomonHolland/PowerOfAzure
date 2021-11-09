@@ -2,9 +2,9 @@
 
 hsp = 0;
 vsp = 0;
-grv = 0.1;
-walksp = 3;
+grv = 0.0;
+walksp = 5;
 hsp = walksp;
 
-hp = 4;
+hp = 2;
 flash = 0;

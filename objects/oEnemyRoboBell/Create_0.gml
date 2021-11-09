@@ -6,5 +6,5 @@ grv = 0.1;
 walksp = 3;
 hsp = walksp;
 
-hp = 4;
+hp = 10;
 flash = 0;
