@@ -1,7 +1,15 @@
-//hsp = horo speed, vsp = vert speed, grv = gravity, walksp = walk speed
+hsp = 3;
+vsp = -4;
+grv = .25;
+done = 0;
 
-hsp = 0;
-vsp = 0;
-grv = 0.25;
-walksp = 4;
-hascontrol = true;
+//image_speed = 0; 
+
+//image_index = 0;
+game_set_speed(30, gamespeed_fps);
+
+with (oCamera) follow = other.id;
+
+
+
+

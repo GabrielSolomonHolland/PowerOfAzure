@@ -4,6 +4,6 @@ with (oSecretChad)
 	if (hascontrol)
 	{
 		hascontrol = false;
-		SlideTransition(TRANS_MODE.GOTO,OSRSLobby);
+		SlideTransition(TRANS_MODE.GOTO,OutsideColden);
 	}
 }
