@@ -13,7 +13,7 @@ if(h==0)
 w = string_width(text_current);
 
 //destroy when done, allow time to read so when a button is pressed instance is destroyed
-if (letters >= length) && check_key_pressed(ord("D"))
+if (letters >= length) && keyboard_check_pressed(ord("D"))
 {
 instance_destroy();	
 //with (oCamera) follow oPlayer;
