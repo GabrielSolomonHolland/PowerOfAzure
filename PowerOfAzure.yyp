@@ -15,6 +15,7 @@
     {"id":{"name":"sWindow","path":"sprites/sWindow/sWindow.yy",},"order":5,},
     {"id":{"name":"sBobbyDead","path":"sprites/sBobbyDead/sBobbyDead.yy",},"order":0,},
     {"id":{"name":"oSlingshot","path":"objects/oSlingshot/oSlingshot.yy",},"order":1,},
+    {"id":{"name":"otransToOcolden","path":"objects/otransToOcolden/otransToOcolden.yy",},"order":2,},
     {"id":{"name":"sYuunyunsign","path":"sprites/sYuunyunsign/sYuunyunsign.yy",},"order":14,},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},"order":1,},
     {"id":{"name":"shWhite","path":"shaders/shWhite/shWhite.yy",},"order":0,},
