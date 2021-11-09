@@ -1,6 +1,6 @@
 //Bobby kills you using this
 with (oSlingshot) instance_destroy();
-instance_change(oDeadSecretChad,true);
+instance_change(oDeadChad,true);
 
 direction = point_direction(other.x, other.y, x, y);
 hsp = lengthdir_x(6, direction);

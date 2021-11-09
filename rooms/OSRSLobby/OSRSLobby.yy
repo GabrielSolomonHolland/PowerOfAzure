@@ -15,7 +15,6 @@
   "layers": [
     {"instances":[],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Bombs","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
-        {"properties":[],"isDnd":false,"objectId":{"name":"oOSRSChar","path":"objects/oOSRSChar/oOSRSChar.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":64.0,"y":448.0,"resourceVersion":"1.0","name":"inst_27B5B5","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"otransToUnion","path":"objects/otransToUnion/otransToUnion.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1312.0,"y":672.0,"resourceVersion":"1.0","name":"inst_79D3A06F","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"oWall","path":"objects/oWall/oWall.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1408.0,"y":768.0,"resourceVersion":"1.0","name":"inst_553D55BC","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"oWall","path":"objects/oWall/oWall.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1408.0,"y":736.0,"resourceVersion":"1.0","name":"inst_719EAF1E","tags":[],"resourceType":"GMRInstance",},
@@ -122,7 +121,6 @@
     {"name":"inst_15E3E395","path":"rooms/OSRSLobby/OSRSLobby.yy",},
     {"name":"inst_1BEB7D","path":"rooms/OSRSLobby/OSRSLobby.yy",},
     {"name":"inst_3E19BC2E","path":"rooms/OSRSLobby/OSRSLobby.yy",},
-    {"name":"inst_27B5B5","path":"rooms/OSRSLobby/OSRSLobby.yy",},
     {"name":"inst_79D3A06F","path":"rooms/OSRSLobby/OSRSLobby.yy",},
     {"name":"inst_553D55BC","path":"rooms/OSRSLobby/OSRSLobby.yy",},
     {"name":"inst_719EAF1E","path":"rooms/OSRSLobby/OSRSLobby.yy",},

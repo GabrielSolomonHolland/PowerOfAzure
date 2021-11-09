@@ -1,6 +1,6 @@
-//OSRS Rogers kills you using this
-with (oSshotOSRS) instance_destroy();
-instance_change(oDeadOSRSChar,true);
+//Bobby kills you using this
+with (oSlingshot) instance_destroy();
+instance_change(oDeadChad,true);
 
 direction = point_direction(other.x, other.y, x, y);
 hsp = lengthdir_x(6, direction);
