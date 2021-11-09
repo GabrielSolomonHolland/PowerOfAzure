@@ -1,5 +1,5 @@
 //Move to next level
-with (oSecretChad)
+with (oOSRSChar)
 {
 	if (hascontrol)
 	{
