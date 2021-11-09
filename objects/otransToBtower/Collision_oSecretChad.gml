@@ -4,6 +4,6 @@ with (oSecretChad)
 	if (hascontrol)
 	{
 		hascontrol = false;
-		SlideTransition(TRANS_MODE.GOTO,StudUnion);
+		SlideTransition(TRANS_MODE.GOTO,BellTower);
 	}
 }

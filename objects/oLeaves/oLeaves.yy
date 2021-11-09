@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sTrigger",
-    "path": "sprites/sTrigger/sTrigger.yy",
+    "name": "sLeaves",
+    "path": "sprites/sLeaves/sLeaves.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,18 +20,15 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"oChad","path":"objects/oChad/oChad.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"oSecretChad","path":"objects/oSecretChad/oSecretChad.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Transitions",
-    "path": "folders/Objects/Transitions.yy",
+    "name": "Terrain",
+    "path": "folders/Objects/Terrain.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oLevel1End",
+  "name": "oLeaves",
   "tags": [],
   "resourceType": "GMObject",
 }
