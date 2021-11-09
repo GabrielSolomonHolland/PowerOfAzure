@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sDeadOSRSRog",
-    "path": "sprites/sDeadOSRSRog/sDeadOSRSRog.yy",
+    "name": "sDeadRoboBell",
+    "path": "sprites/sDeadRoboBell/sDeadRoboBell.yy",
   },
   "solid": false,
   "visible": true,
