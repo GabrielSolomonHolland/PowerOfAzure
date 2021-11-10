@@ -4,6 +4,6 @@ with (oChad)
 	if (hascontrol)
 	{
 		hascontrol = false;
-		SlideTransition(TRANS_MODE.GOTO,Menu);
+		SlideTransition(TRANS_MODE.GOTO,rCredits);
 	}
 }
