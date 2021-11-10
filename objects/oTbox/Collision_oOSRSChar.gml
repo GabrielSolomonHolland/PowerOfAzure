@@ -1,4 +1,4 @@
-if (point_in_circle(player.x,player.y,x,y,rad)) && (!instance_exists(oText))
+if (point_in_circle(oOSRSChar.x,oOSRSChar.y,x,y,rad))
 {
 	with (instance_create_layer(x,y-64,layer,oText))
 	{
