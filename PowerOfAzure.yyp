@@ -30,6 +30,7 @@
     {"id":{"name":"sOSRSRogers","path":"sprites/sOSRSRogers/sOSRSRogers.yy",},"order":1,},
     {"id":{"name":"sRoof","path":"sprites/sRoof/sRoof.yy",},"order":10,},
     {"id":{"name":"DrawText","path":"scripts/DrawText/DrawText.yy",},"order":1,},
+    {"id":{"name":"otranstoBossBTower","path":"objects/otranstoBossBTower/otranstoBossBTower.yy",},"order":6,},
     {"id":{"name":"sDeadOSRSRog","path":"sprites/sDeadOSRSRog/sDeadOSRSRog.yy",},"order":1,},
     {"id":{"name":"oDeadAdkins","path":"objects/oDeadAdkins/oDeadAdkins.yy",},"order":5,},
     {"id":{"name":"oRoof","path":"objects/oRoof/oRoof.yy",},"order":10,},
@@ -66,6 +67,7 @@
     {"id":{"name":"oLadder","path":"objects/oLadder/oLadder.yy",},"order":3,},
     {"id":{"name":"sRoboBell","path":"sprites/sRoboBell/sRoboBell.yy",},"order":2,},
     {"id":{"name":"sFbomb","path":"sprites/sFbomb/sFbomb.yy",},"order":6,},
+    {"id":{"name":"BellTowerBoss","path":"rooms/BellTowerBoss/BellTowerBoss.yy",},"order":7,},
     {"id":{"name":"sDeadAdkins","path":"sprites/sDeadAdkins/sDeadAdkins.yy",},"order":5,},
     {"id":{"name":"sCHDoorTop","path":"sprites/sCHDoorTop/sCHDoorTop.yy",},"order":7,},
     {"id":{"name":"oTowerPiece2","path":"objects/oTowerPiece2/oTowerPiece2.yy",},"order":16,},
@@ -137,6 +139,7 @@
     {"roomId":{"name":"OutsideColden","path":"rooms/OutsideColden/OutsideColden.yy",},},
     {"roomId":{"name":"FrontColden","path":"rooms/FrontColden/FrontColden.yy",},},
     {"roomId":{"name":"testRoom","path":"rooms/testRoom/testRoom.yy",},},
+    {"roomId":{"name":"BellTowerBoss","path":"rooms/BellTowerBoss/BellTowerBoss.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
