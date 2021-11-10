@@ -82,6 +82,7 @@
     {"id":{"name":"sOSRSChar","path":"sprites/sOSRSChar/sOSRSChar.yy",},"order":6,},
     {"id":{"name":"oFascade","path":"objects/oFascade/oFascade.yy",},"order":6,},
     {"id":{"name":"sFire","path":"sprites/sFire/sFire.yy",},"order":4,},
+    {"id":{"name":"BellTowerBoss","path":"rooms/BellTowerBoss/BellTowerBoss.yy",},"order":9,},
     {"id":{"name":"oLadder","path":"objects/oLadder/oLadder.yy",},"order":3,},
     {"id":{"name":"sRoboBell","path":"sprites/sRoboBell/sRoboBell.yy",},"order":2,},
     {"id":{"name":"oHootWeapon","path":"objects/oHootWeapon/oHootWeapon.yy",},"order":17,},
@@ -167,6 +168,7 @@
     {"roomId":{"name":"testRoom","path":"rooms/testRoom/testRoom.yy",},},
     {"roomId":{"name":"rCredits","path":"rooms/rCredits/rCredits.yy",},},
     {"roomId":{"name":"LoreTunnel","path":"rooms/LoreTunnel/LoreTunnel.yy",},},
+    {"roomId":{"name":"BellTowerBoss","path":"rooms/BellTowerBoss/BellTowerBoss.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
