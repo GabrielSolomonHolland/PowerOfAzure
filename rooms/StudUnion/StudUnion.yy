@@ -211,6 +211,7 @@
         {"properties":[
             {"propertyId":{"name":"player","path":"objects/oTbox/oTbox.yy",},"objectId":{"name":"oTbox","path":"objects/oTbox/oTbox.yy",},"value":"oSecretChad","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
             {"propertyId":{"name":"text","path":"objects/oTbox/oTbox.yy",},"objectId":{"name":"oTbox","path":"objects/oTbox/oTbox.yy",},"value":"\"What? I have tracked down this scammer to NWMSU\"","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+            {"propertyId":{"name":"rad","path":"objects/oTbox/oTbox.yy",},"objectId":{"name":"oTbox","path":"objects/oTbox/oTbox.yy",},"value":"512","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
           ],"isDnd":false,"objectId":{"name":"oTbox","path":"objects/oTbox/oTbox.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":128.0,"y":480.0,"resourceVersion":"1.0","name":"inst_30A333D7","tags":[],"resourceType":"GMRInstance",},
         {"properties":[
             {"propertyId":{"name":"player","path":"objects/oTbox/oTbox.yy",},"objectId":{"name":"oTbox","path":"objects/oTbox/oTbox.yy",},"value":"oSecretChad","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},

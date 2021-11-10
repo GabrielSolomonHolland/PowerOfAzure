@@ -277,6 +277,7 @@
         {"properties":[
             {"propertyId":{"name":"player","path":"objects/oTbox/oTbox.yy",},"objectId":{"name":"oTbox","path":"objects/oTbox/oTbox.yy",},"value":"oChad","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
             {"propertyId":{"name":"text","path":"objects/oTbox/oTbox.yy",},"objectId":{"name":"oTbox","path":"objects/oTbox/oTbox.yy",},"value":"\"Play time is over! It's me! Eloe! Lets find that scammer\"","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+            {"propertyId":{"name":"rad","path":"objects/oTbox/oTbox.yy",},"objectId":{"name":"oTbox","path":"objects/oTbox/oTbox.yy",},"value":"256","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
           ],"isDnd":false,"objectId":{"name":"oTbox","path":"objects/oTbox/oTbox.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":128.0,"y":416.0,"resourceVersion":"1.0","name":"inst_6A0C0662","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":300,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
