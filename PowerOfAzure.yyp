@@ -137,8 +137,8 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Tutorial","path":"rooms/Tutorial/Tutorial.yy",},},
     {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
+    {"roomId":{"name":"Tutorial","path":"rooms/Tutorial/Tutorial.yy",},},
     {"roomId":{"name":"OSRSLobby","path":"rooms/OSRSLobby/OSRSLobby.yy",},},
     {"roomId":{"name":"StudUnion","path":"rooms/StudUnion/StudUnion.yy",},},
     {"roomId":{"name":"BellTower","path":"rooms/BellTower/BellTower.yy",},},
