@@ -1,21 +1,21 @@
 {
   "bboxMode": 0,
-  "collisionKind": 1,
+  "collisionKind": 4,
   "type": 0,
-  "origin": 9,
+  "origin": 4,
   "preMultiplyAlpha": false,
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 4,
-  "bbox_right": 11,
-  "bbox_top": 7,
-  "bbox_bottom": 24,
+  "bbox_left": 0,
+  "bbox_right": 83,
+  "bbox_top": 0,
+  "bbox_bottom": 50,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 16,
-  "height": 32,
+  "width": 84,
+  "height": 84,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,9 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"68f66258-d9b6-4e99-bbd2-4a3d0b98dcd7","path":"sprites/sLightingBolt/sLightingBolt.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"68f66258-d9b6-4e99-bbd2-4a3d0b98dcd7","path":"sprites/sLightingBolt/sLightingBolt.yy",},"LayerId":{"name":"4e51540d-bd91-4920-a66a-c0249e20a534","path":"sprites/sLightingBolt/sLightingBolt.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sLightingBolt","path":"sprites/sLightingBolt/sLightingBolt.yy",},"resourceVersion":"1.0","name":"68f66258-d9b6-4e99-bbd2-4a3d0b98dcd7","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f8108151-0262-4d8f-852c-2d01f5ff1fea","path":"sprites/sLightingBolt/sLightingBolt.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f8108151-0262-4d8f-852c-2d01f5ff1fea","path":"sprites/sLightingBolt/sLightingBolt.yy",},"LayerId":{"name":"ae67b36a-f571-469a-9200-9a891e29a131","path":"sprites/sLightingBolt/sLightingBolt.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sLightingBolt","path":"sprites/sLightingBolt/sLightingBolt.yy",},"resourceVersion":"1.0","name":"f8108151-0262-4d8f-852c-2d01f5ff1fea","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"b3f11c9c-9187-496e-b1cf-ecb8ab9d14cd","path":"sprites/sLightingBolt/sLightingBolt.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"b3f11c9c-9187-496e-b1cf-ecb8ab9d14cd","path":"sprites/sLightingBolt/sLightingBolt.yy",},"LayerId":{"name":"ae67b36a-f571-469a-9200-9a891e29a131","path":"sprites/sLightingBolt/sLightingBolt.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sLightingBolt","path":"sprites/sLightingBolt/sLightingBolt.yy",},"resourceVersion":"1.0","name":"b3f11c9c-9187-496e-b1cf-ecb8ab9d14cd","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"sLightingBolt","path":"sprites/sLightingBolt/sLightingBolt.yy",},
@@ -36,12 +39,13 @@
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
-    "length": 1.0,
+    "length": 2.0,
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"bb552c08-8038-4968-91aa-81d54498fe95","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"68f66258-d9b6-4e99-bbd2-4a3d0b98dcd7","path":"sprites/sLightingBolt/sLightingBolt.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"a8648fee-1c23-478c-8a48-9714b993fcb3","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f8108151-0262-4d8f-852c-2d01f5ff1fea","path":"sprites/sLightingBolt/sLightingBolt.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"a30e2a6c-0d09-4e28-b42d-341294cb1fd7","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b3f11c9c-9187-496e-b1cf-ecb8ab9d14cd","path":"sprites/sLightingBolt/sLightingBolt.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -54,8 +58,8 @@
     "backdropHeight": 768,
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
-    "xorigin": 8,
-    "yorigin": 15,
+    "xorigin": 42,
+    "yorigin": 42,
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sLightingBolt","path":"sprites/sLightingBolt/sLightingBolt.yy",},
@@ -65,7 +69,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"4e51540d-bd91-4920-a66a-c0249e20a534","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"ae67b36a-f571-469a-9200-9a891e29a131","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
