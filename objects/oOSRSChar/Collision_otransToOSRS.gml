@@ -1,9 +1,8 @@
-//Move to next level
-with (oChad)
+with (oOSRSChar)
 {
 	if (hascontrol)
 	{
-		hascontrol = false;
+		hascontrol=false;
 		SlideTransition(TRANS_MODE.GOTO,OSRSLobby);
 	}
 }
