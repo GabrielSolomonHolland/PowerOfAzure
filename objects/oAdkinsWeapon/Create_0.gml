@@ -1,3 +1,3 @@
 //How long until next shot is fired
-countdownrate = 150;
+countdownrate = 120;
 countdown = countdownrate;

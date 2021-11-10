@@ -17,7 +17,7 @@ if (instance_exists(oChad))
 			countdown = countdownrate;
 			with (instance_create_layer(x,y,"Bombs",oLightingBolt))
 			{
-				speed = 4;
+				speed = 8;
 				direction = other.image_angle + random_range(-3,3);
 				image_angle = direction;
 			}

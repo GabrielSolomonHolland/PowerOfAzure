@@ -25,7 +25,20 @@ if (place_meeting(x,y + sign(vsp),oWall))
 	{
 		y = y + sign(vsp);
 	}
-	vsp = -1;
+	vsp = random_range(-3, -2);
+}
+y = y + vsp;
+
+
+
+//vert collision for ceiling
+if (place_meeting(x,y + sign(vsp),oWallAd))
+{
+	while (!place_meeting(x,y + sign(vsp),oWallAd))
+	{
+		y = y + sign(vsp);
+	}
+	vsp = -vsp;
 }
 y = y + vsp;
 
