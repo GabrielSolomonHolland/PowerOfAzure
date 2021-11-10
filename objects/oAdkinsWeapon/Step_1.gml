@@ -15,9 +15,9 @@ if (instance_exists(oChad))
 		{
 			if (!collision_line(x,y,oChad.x,oChad.y,oWall,false,false))
 			countdown = countdownrate;
-			with (instance_create_layer(x,y,"Bombs",oLightingBolt))
+			with (instance_create_layer(x,y,"Bombs",oLightningBolt))
 			{
-				speed = 10;
+				speed = 12;
 				direction = other.image_angle + random_range(-3,3);
 				image_angle = direction;
 			}

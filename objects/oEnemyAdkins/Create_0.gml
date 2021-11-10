@@ -3,7 +3,7 @@
 hsp = 0;
 vsp = 0;
 grv = 0.057;
-walksp = 3.5;
+walksp = 3.25;
 hsp = walksp;
 
 hp = 35;
