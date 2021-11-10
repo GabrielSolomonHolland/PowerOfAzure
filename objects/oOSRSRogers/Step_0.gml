@@ -25,7 +25,7 @@ if (place_meeting(x,y + sign(vsp),oWall))
 	{
 		y = y + sign(vsp);
 	}
-	vsp = 0;
+	vsp = -1;
 }
 y = y + vsp;
 
