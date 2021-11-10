@@ -77,6 +77,7 @@
     {"id":{"name":"rCredits","path":"rooms/rCredits/rCredits.yy",},"order":7,},
     {"id":{"name":"sFbomb","path":"sprites/sFbomb/sFbomb.yy",},"order":0,},
     {"id":{"name":"BellTowerBoss","path":"rooms/BellTowerBoss/BellTowerBoss.yy",},"order":7,},
+    {"id":{"name":"Room11","path":"rooms/Room11/Room11.yy",},"order":8,},
     {"id":{"name":"sDeadAdkins","path":"sprites/sDeadAdkins/sDeadAdkins.yy",},"order":5,},
     {"id":{"name":"sCHDoorTop","path":"sprites/sCHDoorTop/sCHDoorTop.yy",},"order":7,},
     {"id":{"name":"oTowerPiece2","path":"objects/oTowerPiece2/oTowerPiece2.yy",},"order":16,},
@@ -155,6 +156,7 @@
     {"roomId":{"name":"testRoom","path":"rooms/testRoom/testRoom.yy",},},
     {"roomId":{"name":"BellTowerBoss","path":"rooms/BellTowerBoss/BellTowerBoss.yy",},},
     {"roomId":{"name":"rCredits","path":"rooms/rCredits/rCredits.yy",},},
+    {"roomId":{"name":"Room11","path":"rooms/Room11/Room11.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
