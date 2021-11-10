@@ -10,5 +10,4 @@ if (point_in_circle(player.x,player.y,x,y,64)) && (!instance_exists(oText))
 	//{
 	//	follow = other.id;
 	//}
-	
 }
