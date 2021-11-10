@@ -20,6 +20,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"oSshotOSRS","path":"objects/oSshotOSRS/oSshotOSRS.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":64.0,"y":576.0,"resourceVersion":"1.0","name":"inst_33190BD7","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"oTransition","path":"objects/oTransition/oTransition.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1312.0,"y":608.0,"resourceVersion":"1.0","name":"inst_10D8D63A","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"oTransition","path":"objects/oTransition/oTransition.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":672.0,"y":64.0,"resourceVersion":"1.0","name":"inst_3B3B231D","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"oAdventure","path":"objects/oAdventure/oAdventure.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":736.0,"y":32.0,"resourceVersion":"1.0","name":"inst_7344B6DC","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Players","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"oGrass","path":"objects/oGrass/oGrass.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":32.0,"y":704.0,"resourceVersion":"1.0","name":"inst_4E00486B","tags":[],"resourceType":"GMRInstance",},
@@ -680,6 +681,7 @@
     {"name":"inst_46BBB155","path":"rooms/Tutorial/Tutorial.yy",},
     {"name":"inst_26A0080E","path":"rooms/Tutorial/Tutorial.yy",},
     {"name":"inst_56E532F3","path":"rooms/Tutorial/Tutorial.yy",},
+    {"name":"inst_7344B6DC","path":"rooms/Tutorial/Tutorial.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
