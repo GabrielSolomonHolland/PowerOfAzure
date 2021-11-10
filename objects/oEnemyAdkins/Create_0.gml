@@ -3,10 +3,10 @@
 hsp = 0;
 vsp = 0;
 grv = 0.057;
-walksp = 2.25;
+walksp = 3.5;
 hsp = walksp;
 
-hp = 30;
+hp = 35;
 flash = 0;
 
 
