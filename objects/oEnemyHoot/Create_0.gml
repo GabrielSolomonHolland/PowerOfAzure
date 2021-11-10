@@ -8,3 +8,13 @@ hsp = walksp;
 
 hp = 4;
 flash = 0;
+
+if (hasweapon)
+{
+	mygun = instance_create_layer(x,y,"Gun",oHootWeapon);
+	with (mygun)
+	{
+		owner = other.id	
+	}
+}
+else mygun = noone;
