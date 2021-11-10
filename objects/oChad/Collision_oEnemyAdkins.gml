@@ -1,5 +1,5 @@
 //Bobby kills you using this
-with (oSlingshot) instance_destroy();
+with (oSlingshotBuffEloe) instance_destroy();
 instance_change(oDeadChad,true);
 
 direction = point_direction(other.x, other.y, x, y);
