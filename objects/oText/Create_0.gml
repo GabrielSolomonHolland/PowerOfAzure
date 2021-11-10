@@ -1,5 +1,5 @@
 //speed in letters/second
-spd = .5;
+spd = .85;
 
 //start point for letters
 letters = 0;

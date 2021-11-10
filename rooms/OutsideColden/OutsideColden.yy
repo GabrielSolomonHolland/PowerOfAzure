@@ -274,6 +274,10 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"oDirt","path":"objects/oDirt/oDirt.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":448.0,"y":576.0,"resourceVersion":"1.0","name":"inst_648B0EFE","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"oDirt","path":"objects/oDirt/oDirt.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":384.0,"y":608.0,"resourceVersion":"1.0","name":"inst_531A8C33","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"oDirt","path":"objects/oDirt/oDirt.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":704.0,"y":416.0,"resourceVersion":"1.0","name":"inst_237954E8","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[
+            {"propertyId":{"name":"player","path":"objects/oTbox/oTbox.yy",},"objectId":{"name":"oTbox","path":"objects/oTbox/oTbox.yy",},"value":"oChad","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+            {"propertyId":{"name":"text","path":"objects/oTbox/oTbox.yy",},"objectId":{"name":"oTbox","path":"objects/oTbox/oTbox.yy",},"value":"\"Play time is over! It's me! Eloe! Lets find that scammer\"","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+          ],"isDnd":false,"objectId":{"name":"oTbox","path":"objects/oTbox/oTbox.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":128.0,"y":416.0,"resourceVersion":"1.0","name":"inst_6A0C0662","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":300,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"oBrick","path":"objects/oBrick/oBrick.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":320.0,"y":480.0,"resourceVersion":"1.0","name":"inst_39474D3F","tags":[],"resourceType":"GMRInstance",},
@@ -1122,6 +1126,7 @@
     {"name":"inst_42D473BB","path":"rooms/OutsideColden/OutsideColden.yy",},
     {"name":"inst_11CC216F","path":"rooms/OutsideColden/OutsideColden.yy",},
     {"name":"inst_6BA49F15","path":"rooms/OutsideColden/OutsideColden.yy",},
+    {"name":"inst_6A0C0662","path":"rooms/OutsideColden/OutsideColden.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
