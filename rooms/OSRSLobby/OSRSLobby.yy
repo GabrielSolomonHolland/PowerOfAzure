@@ -40,9 +40,10 @@
         {"properties":[
             {"propertyId":{"name":"rad","path":"objects/oTbox/oTbox.yy",},"objectId":{"name":"oTbox","path":"objects/oTbox/oTbox.yy",},"value":"256","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
             {"propertyId":{"name":"text","path":"objects/oTbox/oTbox.yy",},"objectId":{"name":"oTbox","path":"objects/oTbox/oTbox.yy",},"value":"\"You fool! This is my gold now!! hahaha\"","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
-            {"propertyId":{"name":"failsafe","path":"objects/oTbox/oTbox.yy",},"objectId":{"name":"oTbox","path":"objects/oTbox/oTbox.yy",},"value":"True","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+            {"propertyId":{"name":"oTbox","path":"objects/oTbox/oTbox.yy",},"objectId":{"name":"oTbox","path":"objects/oTbox/oTbox.yy",},"value":"True","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
           ],"isDnd":false,"objectId":{"name":"oTbox","path":"objects/oTbox/oTbox.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":768.0,"y":320.0,"resourceVersion":"1.0","name":"inst_21BE6CDD","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"otranstoLoreTunnel","path":"objects/otranstoLoreTunnel/otranstoLoreTunnel.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1312.0,"y":672.0,"resourceVersion":"1.0","name":"inst_5E8E4FB9","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"oCatch__Me_If_You_Can","path":"objects/oCatch__Me_If_You_Can/oCatch__Me_If_You_Can.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":576.0,"y":0.0,"resourceVersion":"1.0","name":"inst_2542C7E0","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"players","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"oWall","path":"objects/oWall/oWall.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":288.0,"y":512.0,"resourceVersion":"1.0","name":"inst_2CFDF9DD","tags":[],"resourceType":"GMRInstance",},
@@ -203,6 +204,7 @@
     {"name":"inst_A8FE8C0","path":"rooms/OSRSLobby/OSRSLobby.yy",},
     {"name":"inst_21BE6CDD","path":"rooms/OSRSLobby/OSRSLobby.yy",},
     {"name":"inst_5E8E4FB9","path":"rooms/OSRSLobby/OSRSLobby.yy",},
+    {"name":"inst_2542C7E0","path":"rooms/OSRSLobby/OSRSLobby.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
