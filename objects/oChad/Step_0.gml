@@ -59,6 +59,12 @@ if (hascontrol)
 	{
 		y = y-30;
 	}
+	
+	dash = keyboard_check(ord("L"));
+	if (dash)
+	{
+		x = x+10;
+	}
 
 	//Replaced with enum/event
 	/*if (reset)
