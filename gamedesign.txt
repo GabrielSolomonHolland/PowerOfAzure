@@ -16,15 +16,6 @@
 9. Rated r graphic sex scene to make everyone uncomfortable
 10. Accept our $60
 
-add loreloe
-
-
-if time:
-health bar
-consumables: CantELOEpe, pink drank = health, deep fried bell = faster ROF
-
-fried bell = faster ROF
-
 
 end credits:
 	thank lord and savior
@@ -44,22 +35,15 @@ end credits:
 
 Updated 2do (tuesday)
 
-1. add consumables (bell ROF), pink drank (player speed), cantELOEpe (player jump?)
-2. Add enemies that shoot back
-    hoot w/ fire
-    adkisn w/ lightning
-
------------------------------
-
-1. fix adkins hitting the floor boss bell level
-2. add textures for consumables
-3. add portal level
-4. add lore everywhere - make this monstrocity make sense
+-credits
+-sound for first room
+-victory song
+-sound for firing bombs, fire, lighting
+-death sound
+-fix adkins movement
 
 
 -----------
-
-music?
 
 
 
