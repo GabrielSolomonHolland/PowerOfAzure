@@ -31,6 +31,7 @@
             {"propertyId":{"name":"player","path":"objects/oTbox/oTbox.yy",},"objectId":{"name":"oTbox","path":"objects/oTbox/oTbox.yy",},"value":"oChad","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
             {"propertyId":{"name":"text","path":"objects/oTbox/oTbox.yy",},"objectId":{"name":"oTbox","path":"objects/oTbox/oTbox.yy",},"value":"\"It's over scammer, give me my OSRS Gold back\"","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
           ],"isDnd":false,"objectId":{"name":"oTbox","path":"objects/oTbox/oTbox.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":192.0,"y":512.0,"resourceVersion":"1.0","name":"inst_1C52A9C3","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"otranstoVictory","path":"objects/otranstoVictory/otranstoVictory.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1312.0,"y":608.0,"resourceVersion":"1.0","name":"inst_17561D42","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"player","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"oGrass","path":"objects/oGrass/oGrass.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":32.0,"y":704.0,"resourceVersion":"1.0","name":"inst_F0304E0_1","tags":[],"resourceType":"GMRInstance",},
@@ -575,6 +576,7 @@
     {"name":"inst_49D5076A","path":"rooms/BellTowerBoss/BellTowerBoss.yy",},
     {"name":"inst_24742E50","path":"rooms/BellTowerBoss/BellTowerBoss.yy",},
     {"name":"inst_1C52A9C3","path":"rooms/BellTowerBoss/BellTowerBoss.yy",},
+    {"name":"inst_17561D42","path":"rooms/BellTowerBoss/BellTowerBoss.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
