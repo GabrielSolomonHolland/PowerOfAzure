@@ -3,7 +3,7 @@ vsp = vsp + grv;
 //Plz no walk off edges
 if (grounded) && (ledgeGuard) && (place_meeting(x+hsp, y+1, oWall))
 {
-	hsp = -hsp;
+	hsp = .025;
 }
 
 

@@ -16,26 +16,16 @@
 9. Rated r graphic sex scene to make everyone uncomfortable
 10. Accept our $60
 
-To do: 
-make professor villians
-	laser eyes?
-	SCOTT BELL THROWING "stop signs and packets"
-	android bell obviously
-	Ali throws bullshit
-	badami has trick questions
-		the riddler??
-		astleydami
-		owodami
-	qin's warped face
-make bell tower and inside colden
-	make belltower look subtly like giant dick and balls
-make OSRSEloe
-make OSRSScammer
-make OSRS Lobby and something
 add loreloe
-laugh our asses off as Eloe playtests our game
-*** Be able to change maps
-add menu
+
+
+if time:
+health bar
+consumables: CantELOEpe, pink drank = health, deep fried bell = faster ROF
+
+fried bell = faster ROF
+
+
 end credits:
 	thank lord and savior
 	be super extra with every job by our names:
@@ -48,11 +38,46 @@ end credits:
 		concepts by Jesse R and Gabriel SH
 		a bunch of other stuff to credit ourselves for
 
-if time:
-health bar
-consumables: CantELOEpe, pink drank = health, deep fried bell = faster ROF
 
 
-best idea ever:
-animate bobby bearcat to leg dance left neutral right neutral repeat
-best idea ever
+
+
+Updated 2do (tuesday)
+
+1. add consumables (bell ROF), pink drank (player speed), cantELOEpe (player jump?)
+2. Add enemies that shoot back
+    hoot w/ fire
+    adkisn w/ lightning
+
+-----------------------------
+
+1. fix adkins hitting the floor boss bell level
+2. add textures for consumables
+3. add portal level
+4. add lore everywhere - make this monstrocity make sense
+
+
+-----------
+
+music?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
