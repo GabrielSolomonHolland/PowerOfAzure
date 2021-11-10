@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"oBell1","path":"objects/oBell1/oBell1.yy",},"order":17,},
     {"id":{"name":"sLightningsmall","path":"sprites/sLightningsmall/sLightningsmall.yy",},"order":3,},
+    {"id":{"name":"oAdventure","path":"objects/oAdventure/oAdventure.yy",},"order":3,},
     {"id":{"name":"title","path":"sprites/title/title.yy",},"order":16,},
     {"id":{"name":"sTrunk","path":"sprites/sTrunk/sTrunk.yy",},"order":20,},
     {"id":{"name":"oEnemyAdkins","path":"objects/oEnemyAdkins/oEnemyAdkins.yy",},"order":0,},
@@ -86,6 +87,7 @@
     {"id":{"name":"oOSRSChar","path":"objects/oOSRSChar/oOSRSChar.yy",},"order":5,},
     {"id":{"name":"oDeadQin","path":"objects/oDeadQin/oDeadQin.yy",},"order":2,},
     {"id":{"name":"oFire","path":"objects/oFire/oFire.yy",},"order":18,},
+    {"id":{"name":"Adventure","path":"sounds/Adventure/Adventure.yy",},"order":3,},
     {"id":{"name":"FrontColden","path":"rooms/FrontColden/FrontColden.yy",},"order":4,},
     {"id":{"name":"sOSRSChar","path":"sprites/sOSRSChar/sOSRSChar.yy",},"order":6,},
     {"id":{"name":"oFascade","path":"objects/oFascade/oFascade.yy",},"order":6,},
