@@ -9,8 +9,8 @@ Jesse Reed & Gabriel Solomon Holland
 Power of Azure is an action-filled adventure spanning across dimensions. Throughout this edge-of-your-seat adventure, you'll face twists and turns while you fight to uncover a nail-biting mystery.
 
 ## Controls:
-`Controls are explained in game, but here they are:
-Movement: WASD
+Controls are explained in game, but here they are:
+`Movement: WASD
 Fire/Aim: Mouse/Left Click
 Reset Level: R
 Reset Game: Esc`
