@@ -19,9 +19,6 @@ Reset Level: R
 
 Reset Game: Esc`
 
-## Source Code:
-This project was created using GameMaker Studio 2. You can find the source code in our repo here: https://github.com/GabrielSolomonHolland/PowerOfAzure
-
 ## Credits:
 All credits are viewable in-game. ;)
 
