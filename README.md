@@ -1,6 +1,6 @@
 #Power of Azure
 
-![A picture depicting a mountain range covered in shadows with a purple, stormy, sky filled with lighting overhead. In the foreground, a comically buff version of Eloe is slav squatting. To his right side, Adkins is portrated as Zeus. She is holding a lighting bolt in her left hand, ready to strike, and Lor'Eloe in her right as a hostage. ](cover_resized.png)
+![A picture depicting a mountain range covered in shadows with a purple, stormy, sky filled with lighting overhead. In the foreground, a comically buff version of Eloe is slav squatting. To his right side, Adkins is portrated as Zeus. She is holding a lighting bolt in her left hand, ready to strike, and Lor'Eloe in her right as a hostage. ](pics/cover_resized.png)
 
 ##Creators:
 Jesse Reed & Gabriel Solomon Holland
