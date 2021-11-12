@@ -11,13 +11,15 @@ Power of Azure is an action-filled adventure spanning across dimensions. Through
 ## Controls:
 Controls are explained in game, but here they are:
 
-`Movement: WASD
+```
+Movement: WASD
 
 Fire/Aim: Mouse/Left Click
 
 Reset Level: R
 
-Reset Game: Esc`
+Reset Game: Esc
+```
 
 ## Credits:
 All credits are viewable in-game. ;)
